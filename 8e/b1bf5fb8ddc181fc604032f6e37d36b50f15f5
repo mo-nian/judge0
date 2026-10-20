@@ -1,0 +1,14 @@
+README.md
+  h_5b649faa2cb3a3 466-467
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8eb1bf5fb8ddc181fc604032f6e37d36b50f15f5",
+  "prompts": {},
+  "humans": {
+    "h_5b649faa2cb3a3": {
+      "author": "dxu2 <dxu2@leqee.com>"
+    }
+  }
+}
